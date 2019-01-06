@@ -1,0 +1,29 @@
+
+*.scvd
+*.lst
+*.map
+*.iex
+*.d
+*.htm
+*.lnp
+*.dep
+SVC_Exception/RTE/_Target_1/RTE_Components.h
+SVC_Exception/RTE/Device/MSP432P4111/startup_msp432p4111_uvision.s
+.gitattributes
+SVC_Exception/SVC_Exception.uvguix.mrolu
+SVC_Exception/SVC_Exception.uvoptx
+SVC_Exception/SVC_Exception.uvprojx
+SysTick Only Round Robin/Objects/startup_msp432p4111_uvision.o
+SysTick Only Round Robin/Objects/system_msp432p4111.crf
+SysTick Only Round Robin/Objects/system_msp432p4111.o
+SysTick Only Round Robin/RoundRobin_1.uvguix.mrolu
+SysTick Only Round Robin/RoundRobin_1.uvoptx
+SysTick Only Round Robin/RoundRobin_1.uvprojx
+SysTick Only Round Robin/RTE/_MSP432P4111/RTE_Components.h
+SysTick Only Round Robin/RTE/_Target_1/RTE_Components.h
+SysTick Only Round Robin/RTE/Device/MSP432P4111/startup_msp432p4111_uvision.s
+SysTick Only Round Robin/RTE/Device/MSP432P4111/system_msp432p4111.c
+SVC_Exception/Objects/startup_msp432p4111_uvision.o
+SVC_Exception/Objects/system_msp432p4111.crf
+SVC_Exception/Objects/system_msp432p4111.o
+SVC_Exception/RTE/Device/MSP432P4111/system_msp432p4111.c

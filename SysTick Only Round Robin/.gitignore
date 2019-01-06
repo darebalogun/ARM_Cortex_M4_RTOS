@@ -1,0 +1,6 @@
+
+*.scvd
+*.lst
+*.map
+main.c
+*.iex
